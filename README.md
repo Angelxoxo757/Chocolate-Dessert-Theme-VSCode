@@ -6,4 +6,6 @@ Hello my name is Maria Cromety, I decided to make my own visual studio code them
 
 Here are screenshots of what the theme is going to look like in your editor!
 
-OUOn6Tgx-default.jpeg.png
+![OUOn6Tgx-default jpeg](https://user-images.githubusercontent.com/112197120/194547178-d4bfc0d0-4735-4bb5-9ef1-69ea8c5f6fa0.png)
+![OUOn6Tgx-commandPalette jpeg](https://user-images.githubusercontent.com/112197120/194547181-7c9f94b8-071d-4788-9dc4-0aaa0e3e7fed.png)
+![OUOn6Tgx-panelTerminal jpeg](https://user-images.githubusercontent.com/112197120/194547182-34c17e71-32d0-4903-9d12-e7e001509204.png)
