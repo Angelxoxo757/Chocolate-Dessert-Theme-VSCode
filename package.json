@@ -1,0 +1,32 @@
+{
+  "name": "chocolate-dessert-theme",
+  "displayName": "chocolate-dessert-theme",
+  "description": "Chocolate Dessert Dark Theme",
+  "version": "0.0.1",
+  "publisher": "Angelxoxo757",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "chocolate",
+    "dark",
+    "theme",
+    "vscode"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angelxoxo757/Chocolate-Dessert-Theme-VSCode.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chocolate Dessert Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Chocolate Dessert Theme-color-theme.json"
+      }
+    ]
+  }
+}
